@@ -1,1 +1,1 @@
-Implementing Logistic Regresion from scratch
+Implementing Logistic Regression from scratch
